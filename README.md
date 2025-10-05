@@ -13,7 +13,6 @@ A user-friendly GUI application for efficiently copying files between drives wit
 - **Cross-platform compatibility** - Works on Windows, Mac, and Linux
 
 ### **File Management**
-{{ ... }}
 - **Complete folder copying** - When adding folders, the entire folder (including its name) is copied
 - **Flat copy option** - Copy all files to a single destination folder
 - **Duplicate handling** - Automatically renames duplicates or overwrites based on preference
